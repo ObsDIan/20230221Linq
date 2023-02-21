@@ -11,9 +11,11 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("輸入字串(ex.12,18,13,23,32)");
-            string input = Console.ReadLine();
-            
+            //Console.WriteLine("輸入字串(ex.12,18,13,23,32)");
+            //string input = Console.ReadLine();
+            string input = "12,18,13,23,32";
+
+
             List<string> list = new List<string>();
             input.Split(',').ToList().ForEach(list.Add);
             list.Reverse();
