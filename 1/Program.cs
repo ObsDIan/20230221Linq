@@ -15,13 +15,8 @@ namespace _1
             //string input = Console.ReadLine();
             string input = "12,18,13,23,32";
 
-
-            List<string> list = new List<string>();
-            input.Split(',').ToList().ForEach(list.Add);
-            list.Reverse();
-
             Console.WriteLine($"輸入 {input}");
-            Console.WriteLine($"結果 {string.Join(",", list)}");
+            Console.WriteLine($"結果 {string.Join(",", input.Split(',').Reverse())}");
 
             Console.ReadLine();
 
