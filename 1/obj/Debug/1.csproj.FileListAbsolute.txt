@@ -1,0 +1,8 @@
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\bin\Debug\1.exe.config
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\bin\Debug\1.exe
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\bin\Debug\1.pdb
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\obj\Debug\1.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\obj\Debug\1.exe
+E:\跨域黑客\C#\20230221Linq\20230221Linq\1\obj\Debug\1.pdb
